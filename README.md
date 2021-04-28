@@ -1,6 +1,6 @@
 # calculator
 
-
+# usege 
 ```
 $ git clone https://github.com/d5tr/calculator.git
 ```
